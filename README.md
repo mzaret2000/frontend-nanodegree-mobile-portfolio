@@ -11,3 +11,4 @@ Optimizations in main.js:
 1. Defined resizing variables prior to for loop for changePizzaSizes
 2. Used getElementsByName selector
 3. Defined phase outside of for loop for scrolling
+4. reduced number of scrolling pizzas
