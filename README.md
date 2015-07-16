@@ -1,4 +1,4 @@
-####Optimizations and site usage instruction included bloew
+####Optimizations and site usage instruction included below
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
 Optimizations in index.html:
